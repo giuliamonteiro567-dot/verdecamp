@@ -1,0 +1,5 @@
+Projeto: audio-camuflagem / redcamoapp
+
+Instale as dependências com npm install e inicie com npm run dev.
+A chave privada foi retirada desta cópia. Copie .env.example para .env.local e configure sua própria chave, se precisar usar a análise de áudio.
+O projeto original no SSD não foi alterado.
